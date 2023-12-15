@@ -86,6 +86,7 @@ $ npm install
 ```console
 $ npm start
 ```
+# Mr. Palash
 
   View the website at: http://localhost:3000
 
